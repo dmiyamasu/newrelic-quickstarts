@@ -25,6 +25,12 @@ keywords:
   - apollo server
   - apollo
   - graphql
+  - nodejs
+  - express
+  - hapi
+  - koa
+  - fastify
+  - npm
 installPlans:
   - node-agent
 dataSourceIds:
